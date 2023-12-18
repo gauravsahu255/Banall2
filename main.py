@@ -43,7 +43,7 @@ Owner = "anime_fan_owner"
 repo = "https://t.me/Anime_Savage_Group/175987"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/anime_x_god"), Button.url("••ʀєρο••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/anime_x_god"),Button.url("DEVELOPER", "https://t.me/anime_fan_owner"),Button.url("••ʀєρο••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
@@ -176,7 +176,7 @@ async def ver(events):
 
 
 print("Your Bot  Deployed Successfully ✅")
-print("Join @crushbot_support if you facing any kind of issue!!")
+print("Join @anime_x_god if you facing any kind of issue!!")
 
 
 
