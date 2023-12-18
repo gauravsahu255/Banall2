@@ -1,4 +1,4 @@
-# Powered by @Darkranger00 | Tele:- @aadillllll
+# Powered by @anime_savage_group1 | Tele:- @anime_fan_owner
 # Dear Pero ppls Plish Don't remove this line from here🌚
 # created by by only you
 # Kangers ki mkc
@@ -18,7 +18,7 @@ Add Me There And I will Ruined Group 👻!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [Aadil](https://t.me/aadillllll)
+❍ Code Owner » [Aadil](https://t.me/anime_fan_owner)
 
 Type /help For Commands!
 """
@@ -31,7 +31,7 @@ __This Is BanAll Bot\nOnly My Owner Can Access This Bot👻!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [ＹＯUＲ ＣＲUＳＨ،"(💛](https://t.me/aadillllll)
+❍ Code Owner » [ＹＯUＲ ＣＲUＳＨ،"(💛](https://t.me/anime_fan_owner)
 """
 
 hlptxt = """ Meow [{}](tg://user?id={}),
@@ -44,5 +44,5 @@ __Here is the help menu__:
 ❅ /leave - To leave group.
 ❅ /restart - To restart the bot.
 
-❍ Facing any kind of issue then just join @crushbot_support and ask there!!
+❍ Facing any kind of issue then just join @anime_x_god and ask there!!
 """
