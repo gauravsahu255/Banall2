@@ -8,13 +8,13 @@ def sample_response(input_text):
 
   if user_message in ("hi", "hello", "sup", "hiii", "hii", "kha hai"):
     return f"{photo3}\n\
-    hey! adil is not here i am lara wanna play with me"
+    hey! taki is not here i am lara wanna play with me"
 
-  if user_message in ("adil", "aadil", "your crush", "@aadillllll"):
+  if user_message in ("Taki Ji", "TAKI JI", "your crush", "@ANIME_FAN_OWNER"):
     return "HE is busy in her schedule. you can tell me i inform her"
   if user_message in ("bsdk", "madharchod", "bkl", "behanchod", "cgutiya",
                       "gaandu"):
-    return "Adil baap ke bina gaali mat bak aane de use"
+    return "Taki baap ke bina gaali mat bak aane de use"
 
   if user_message in ("ladki", "pyar", "dhoka"):
     return "Pyar ek dhoka hai...aur baaki zazbhai ki gaand maar yahi sahi moka hai"
